@@ -1,10 +1,10 @@
-Repositório criado para acompanhar a evolução das atividades obrigatórias do curso "Primeiros Passos em Power BI",ofertado pelo Santander Open Academy via plataforma DIO.me.
+Repositório criado para acompanhar a evolução das atividades obrigatórias do curso "Primeiros Passos em Power BI", ofertado pelo Santander Open Academy via plataforma DIO.me.
 
 Para obter a certificação é necessário realizar os desafios de projetos de todos os seis (06) módulos do curso. Cada módulo tem,uma área de foco, sendo, respectivamente:
 
 Módulo 01 - Introdução a Inteligência Aritifical e Agentes
-  Ênfase em IA, Chatbots, Copilotos e Agentes de forma generalista. 
-    Desafio do Projeto "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM".
+Ênfase em IA, Chatbots, Copilotos e Agentes de forma generalista. 
+Desafio do Projeto "Treinando uma IA de Aprendizagem: Explore o Poder do NotebookLM".
 
 Módulo 02 - Fundamentos de BI 
   Ênfase nos conceitos introdutórios análise de dados em SQL, Power BI e fundamentos téoricos de análise de dados. 
