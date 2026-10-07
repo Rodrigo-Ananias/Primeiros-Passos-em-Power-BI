@@ -1,0 +1,33 @@
+Relatório Gerencial de Vendas - Simples
+
+	O presente relatório busca apresentar uma visão simples sobre as vendas dos anos de 2013 e 2014. Sendo assim, foi utilizado como base o exemplo "financials" do Power BI, onde foram criadas 3 páginas, respectivamente: P1 (Relatório de Vendas), P2 (Relatório de Lucro) e P3 (Relatório de Vendas Detalhado).
+	
+	Em cada página foi implementado os respectivos visuais que expressassem as informações chaves para os usuários. Por exemplo, na P1  foram inseridos 4 cartões com indicadores chaves - Potencial de Vendas, Vendas Realizadas, Unidades Vendidas e Bônus dado ao cliente. A intenção desses cartões é responder as seguintes perguntas:
+
+-- Quantas unidades foram vendidas?
+-- Qual era o potencial de vendas dessas unidades?
+-- Qual foi o total arrecado com essas vendas?
+-- Quanto de bônus(desconto) foram dados aos clientes?
+	
+	Além dos indicadores chaves (cartões) foram adicionados outros grafos que complementam a a narrativa, como "Vendas por Mês", "Vendas X Produto" e "Vendas X Segmento". Esses grafos permitem responder perguntas como:
+
+-- Qual mês teve mais venda?
+-- Qual segmento teve a maior participação nas vendas?
+-- Qual produto vendeu mais?
+	
+	Ademais, é possível ver a evolução trimestral das vendas pela matriz disponibilizada nessa primeira página. Para melhor experiência ao usuário, foi implementado a Frequência de Fibonacci (proporção áurea) em todas as páginas, além de botões interativos que permitem locomover entre as páginas de forma fluída.
+
+	Em seguida, na P2, buscou-se responder as perguntas referentes ao lucro do empreendimento. Com isso foram feitos visuais que buscassem apresentar as respostas para as seguintes perguntas:
+
+-- Qual é o segmento que mais proporcionou lucro a nossa empresa?
+-- Qual é o produto que gerou o maior retorno?
+-- Qual é o lucro total? E o lucro anual? Trimestral?
+-- Qual é o lucro por país?
+
+	Por fim, a P3 apresentou um olhar mais aprofundado sobre as vendas e o lucro. Foram feitas perguntas como:
+
+-- Qual foi o trimestre com o maior lucro?
+-- Qual a relação entre o número de vendas e o lucro?
+-- Qual o papel do bônus para concretizar as vendas?
+
+	Espero que gostem do relatório. Como paleta de cores, usei um gradiente em roxo que não é cansativo para visão e produz ótimos contrastes. 
