@@ -1,8 +1,6 @@
-Repositório criado para acompanhar a evolução das atividades obrigatórias do curso "Primeiros Passos em Power BI",ofertado pelo
-Santander Open Academy via plataforma DIO.me.
+Repositório criado para acompanhar a evolução das atividades obrigatórias do curso "Primeiros Passos em Power BI",ofertado pelo Santander Open Academy via plataforma DIO.me.
 
-Para obter a certificação é necessário realizar os desafios de projetos de todos os seis (06) módulos do curso. Cada módulo tem,
-uma área de foco, sendo, respectivamente:
+Para obter a certificação é necessário realizar os desafios de projetos de todos os seis (06) módulos do curso. Cada módulo tem,uma área de foco, sendo, respectivamente:
 
 Módulo 01 - Introdução a Inteligência Aritifical e Agentes
   Ênfase em IA, Chatbots, Copilotos e Agentes de forma generalista. 
@@ -32,7 +30,6 @@ Módulo 06 - Data Analytics e Storytelling com Power BI
     Desafio do Projeto (1) "Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI".
     Desafio do Projeto (2) "Criando um Relatório Vendas e Lucros com Data Analytics com Power BI".
 
-Em suma, todos os materais utilizados para obter a certificação serão colocados nesse repositório. O repositório será dividido
-em módulos, contendo cada um o seu respectivo desafio de projeto.
+Em suma, todos os materais utilizados para obter a certificação serão colocados nesse repositório. O repositório será dividido em módulos, contendo cada um o seu respectivo desafio de projeto.
 
 OBS: Estou aprendendo a organizar a página de repositórios. Qualquer dúvida, faça uma pergunta.
